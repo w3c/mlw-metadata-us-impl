@@ -681,7 +681,8 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
         which the individual believes contains <a href="https://www.w3.org/Consortium/Patent-Policy-20040205/#def-essential">Essential
           Claim(s)</a> must disclose the information in accordance with <a href="https://www.w3.org/Consortium/Patent-Policy-20040205/#sec-Disclosure">section
           6 of the W3C Patent Policy</a>. </p>
-      <p>This document is governed by the <a id="w3c_process_revision" href="https://www.w3.org/2015/Process-20150901/">1
+      <p>This document is governed by the <a id="w3c_process_revision"
+          href="https://www.w3.org/2015/Process-20150901/">1
           September 2015 <abbr title="World Wide Web Consortium">W3C</abbr>
           Process Document</a>. </p>
     </section>
@@ -1698,10 +1699,8 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
             <li> Details: <a href="https://www.w3.org/International/multilingualweb/lt/wiki/Online_MT_Systems_Use_Case_Demonstration">https://www.w3.org/International/multilingualweb/lt/wiki/Online_MT_Systems_Use_Case_Demonstration</a>
             </li>
             <!--
-          <li> Running software:            <ul>              <li> <a href="https://atlaspw1-pre.linguaserve.net/admin/">ITS 2.0 ATLAS PW1 Testing Page</a> (credentials: user=mlw-lt_public password=MLWLT4atlaspw1$).
-              </li>              <li> <a href="http://atlaspw1-pre.linguaserve.net:10080/its2_prototype/home.html">ITS 2.0 ATLAS PW1 Prototype</a> (credentials: user=mlw-lt password=its2-wp4).              </li>              <li> <a href="http://its2-aeat.linguaserve.net">Spanish Tax Agency showcase</a> (credentials: user=mlw-lt password=its2-wp4).
-              </li>              <li> <a href="http://www.openmatrex.org/">MaTrEx</a>.              </li>
-              <li> <a href="http://service.lucysoftware.com:8080/dts">ITS 2.0 LucySoftware prototype</a> (credentials: user=mlwlt password=ltweb11).              </li>            </ul>
+          <li> Running software:            <ul>              <li> <a href="https://atlaspw1-pre.linguaserve.net/admin/">ITS 2.0 ATLAS PW1 Testing Page</a> (credentials: user=mlw-lt_public password=MLWLT4atlaspw1$).              </li>              <li> <a href="http://atlaspw1-pre.linguaserve.net:10080/its2_prototype/home.html">ITS 2.0 ATLAS PW1 Prototype</a> (credentials: user=mlw-lt password=its2-wp4).              </li>              <li> <a href="http://its2-aeat.linguaserve.net">Spanish Tax Agency showcase</a> (credentials: user=mlw-lt password=its2-wp4).
+              </li>              <li> <a href="http://www.openmatrex.org/">MaTrEx</a>.              </li>              <li> <a href="http://service.lucysoftware.com:8080/dts">ITS 2.0 LucySoftware prototype</a> (credentials: user=mlwlt password=ltweb11).              </li>            </ul>
           </li>          <li> Source code: Not public          </li> -->
             <li> General documentation:
               <ul>
@@ -2305,8 +2304,7 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
             <li> <a href="https://www.w3.org/International/multilingualweb/lt/wiki/File:2012-09-21-lrc.ppt">Slides</a>
             </li>
             <!--     <li> <a href="https://www.scss.tcd.ie/~lefinn/CMS-L10n-DemoVideo.mp4">Demo video</a>
-          </li>          <li> <a href="https://www.w3.org/International/multilingualweb/lt/wiki/Provenance_Best_Practice#Example:_RDF-PROV_from_XLIFF.2FITS_Roundtrip">Examples of HTML-to-XLIFF-PROV-O mappings</a>          </li>
-          <li> <a href="https://www.w3.org/International/multilingualweb/lt/wiki/Provenance_Best_Practice#ITS-PROV-O_Vocabulary">Suggested PROV-O vocabulary extensions for this localisation roundtrip application                        of the <abbr title="World Wide Web Consortium">W3C</abbr> provenance specification</a>          </li> -->
+          </li>          <li> <a href="https://www.w3.org/International/multilingualweb/lt/wiki/Provenance_Best_Practice#Example:_RDF-PROV_from_XLIFF.2FITS_Roundtrip">Examples of HTML-to-XLIFF-PROV-O mappings</a>          </li>          <li> <a href="https://www.w3.org/International/multilingualweb/lt/wiki/Provenance_Best_Practice#ITS-PROV-O_Vocabulary">Suggested PROV-O vocabulary extensions for this localisation roundtrip application                        of the <abbr title="World Wide Web Consortium">W3C</abbr> provenance specification</a>          </li> -->
           </ul>
         </section>
       </section>
